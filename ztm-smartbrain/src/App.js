@@ -4,7 +4,7 @@ import Navigation from './components/Navigation';
 import Logo from './components/Logo';
 import 'tachyons';
 
-function App() {
+const App = () => {
   return (
     <div className="App">
       <Navigation />
