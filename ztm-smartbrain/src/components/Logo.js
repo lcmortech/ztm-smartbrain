@@ -1,6 +1,6 @@
-import Navigation from './components/Navigation';
-import Logo from './components/Logo';
-import './App.css';
+import Navigation from './Navigation';
+import brain from './logos/brain.png'
+import './Logo.css';
 import Tilt from 'react-tilt'
 
 const Logo = () => {
